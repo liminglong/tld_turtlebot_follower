@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>tld_turtlebot_follower</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>The tld_turtlebot_follower can make a turtlebot track a pre-specified target and follow it.
   </description>
 
